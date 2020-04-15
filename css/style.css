@@ -1,0 +1,100 @@
+body {
+  text-align: center;
+}
+.book {
+  float: left;
+  margin-right: 50px;
+}
+.bottom:hover {
+  background-color: #edf7fa;
+}
+.list {
+  width: 50%;
+  margin: 0px auto 0px auto;
+}
+.top {
+  background-color: #77d8d8;
+}
+.middle:hover {
+  background-color: #b0eacd;
+  text-align: middle;
+}
+#heading {
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+}
+#h2 {
+  font-family: 'Comic Neue', sans-serif;
+  font-size: 40px;
+}
+.h3 {
+  margin-top: 30px;
+  font-family: sans-serif;
+  color: #fd5e53;
+}
+.h31 {
+  margin-top: 30px;
+  margin-left: 80px;
+  font-family: sans-serif;
+  color: #fd5e53;
+}
+.cloud {
+  position: relative;
+  left: 400px;
+  margin-top: 50px;
+}
+.cloud1 {
+  position: relative;
+  right: 200px;
+  bottom: 250px;
+}
+#mm{
+  margin: 0px auto 0px auto;
+  position: relative;
+  right: 100px;
+}
+.book {
+  width: 200px;
+  height: 200px;
+}
+.border {
+  margin-top: 20px;
+  border-style: dotted;
+  width: 10%
+}
+#image {
+
+  margin-top: 40px;
+  height: 200px;
+  width: 200px;
+}
+.para {
+  width: 50%;
+  margin: 20px auto 0px auto;
+  font-size: 20px;
+}
+.para2 {
+  width: 50%;
+  margin: 20px auto 40px auto;
+  font-size: 40px;
+  color: #ff5d6c
+}
+.para1 {
+  width: 50%;
+  margin: 20px auto 0px 80px;
+  font-size: 20px;
+  text-align: left;
+  line-height: 2;
+}
+.qualification {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.skill {
+  float: right;
+}
+h2 {
+  font-size: 70px;
+  color:  #af460f;
+}
